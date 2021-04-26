@@ -1,0 +1,352 @@
+[
+  {
+    "Id": 1,
+    "Location": "Maharashtra",
+    "Total_Cases": "36,39,855",
+    "New_Cases_Per_Day": "61,695",
+    "Cases_Per_1_Million_People": "31,877",
+    "Deaths": "59,153",
+    "Latitude": 19.601194,
+    "Longitude": 75.552979
+  },
+  {
+    "Id": 2,
+    "Location": "Kerala",
+    "Total_Cases": "11,97,301",
+    "New_Cases_Per_Day": "8,126",
+    "Cases_Per_1_Million_People": "34,574",
+    "Deaths": "4,856",
+    "Latitude": 10.850516,
+    "Longitude": 76.27108
+  },
+  {
+    "Id": 3,
+    "Location": "Karnataka",
+    "Total_Cases": "11,09,650",
+    "New_Cases_Per_Day": "14,738",
+    "Cases_Per_1_Million_People": "17,323",
+    "Deaths": "13,112",
+    "Latitude": 15.317277,
+    "Longitude": 75.71389
+  },
+  {
+    "Id": 4,
+    "Location": "Tamil Nadu",
+    "Total_Cases": "9,62,935",
+    "New_Cases_Per_Day": "7,987",
+    "Cases_Per_1_Million_People": "14,190",
+    "Deaths": "12,999",
+    "Latitude": 11.059821,
+    "Longitude": 78.387451
+  },
+  {
+    "Id": 5,
+    "Location": "Andhra Pradesh",
+    "Total_Cases": "9,42,135",
+    "New_Cases_Per_Day": "5,086",
+    "Cases_Per_1_Million_People": "19,077",
+    "Deaths": "7,353",
+    "Latitude": 17.686815,
+    "Longitude": 83.218483
+  },
+  {
+    "Id": 6,
+    "Location": "Delhi",
+    "Total_Cases": "7,84,137",
+    "New_Cases_Per_Day": "16,699",
+    "Cases_Per_1_Million_People": "41,307",
+    "Deaths": "11,652",
+    "Latitude": 28.6448,
+    "Longitude": 77.216721
+  },
+  {
+    "Id": 7,
+    "Location": "Uttar Pradesh",
+    "Total_Cases": "7,66,360",
+    "New_Cases_Per_Day": "22,339",
+    "Cases_Per_1_Million_People": "3,752",
+    "Deaths": "9,480",
+    "Latitude": 28.207609,
+    "Longitude": 79.82666
+  },
+  {
+    "Id": 8,
+    "Location": "West Bengal",
+    "Total_Cases": "6,36,885",
+    "New_Cases_Per_Day": "6,769",
+    "Cases_Per_1_Million_People": "7,051",
+    "Deaths": "10,480",
+    "Latitude": 22.978624,
+    "Longitude": 87.747803
+  },
+  {
+    "Id": 9,
+    "Location": "Chhattisgarh",
+    "Total_Cases": "5,01,500",
+    "New_Cases_Per_Day": "15,256",
+    "Cases_Per_1_Million_People": "17,037",
+    "Deaths": "5,442",
+    "Latitude": 21.295132,
+    "Longitude": 81.828232
+  },
+  {
+    "Id": 10,
+    "Location": "Rajasthan",
+    "Total_Cases": "3,87,950",
+    "New_Cases_Per_Day": "6,658",
+    "Cases_Per_1_Million_People": "5,631",
+    "Deaths": "3,041",
+    "Latitude": 27.391277,
+    "Longitude": 73.432617
+  },
+  {
+    "Id": 11,
+    "Location": "Gujarat",
+    "Total_Cases": "3,75,768",
+    "New_Cases_Per_Day": "8,152",
+    "Cases_Per_1_Million_People": "5,993",
+    "Deaths": "5,076",
+    "Latitude": 22.309425,
+    "Longitude": 72.13623
+  },
+  {
+    "Id": 12,
+    "Location": "Madhya Pradesh",
+    "Total_Cases": "3,73,518",
+    "New_Cases_Per_Day": "10,166",
+    "Cases_Per_1_Million_People": "5,093",
+    "Deaths": "4,365",
+    "Latitude": 23.473324,
+    "Longitude": 77.947998
+  },
+  {
+    "Id": 13,
+    "Location": "Odisha",
+    "Total_Cases": "3,58,342",
+    "New_Cases_Per_Day": "2,989",
+    "Cases_Per_1_Million_People": "8,195",
+    "Deaths": "1,935",
+    "Latitude": 20.94092,
+    "Longitude": 84.803467
+  },
+  {
+    "Id": 14,
+    "Location": "Telangana",
+    "Total_Cases": "3,41,885",
+    "New_Cases_Per_Day": "3,840",
+    "Cases_Per_1_Million_People": "9,714",
+    "Deaths": "1,797",
+    "Latitude": 17.123184,
+    "Longitude": 79.208824
+  },
+  {
+    "Id": 15,
+    "Location": "Haryana",
+    "Total_Cases": "3,35,800",
+    "New_Cases_Per_Day": "5,858",
+    "Cases_Per_1_Million_People": "13,245",
+    "Deaths": "3,334",
+    "Latitude": 29.238478,
+    "Longitude": 76.431885
+  },
+  {
+    "Id": 16,
+    "Location": "Bihar",
+    "Total_Cases": "3,01,304",
+    "New_Cases_Per_Day": "6,133",
+    "Cases_Per_1_Million_People": "3,043",
+    "Deaths": "1,675",
+    "Latitude": 25.563322,
+    "Longitude": 84.869804
+  },
+  {
+    "Id": 17,
+    "Location": "Punjab",
+    "Total_Cases": "2,86,816",
+    "New_Cases_Per_Day": "4,311",
+    "Cases_Per_1_Million_People": "10,250",
+    "Deaths": "7,722",
+    "Latitude": 30.900965,
+    "Longitude": 75.857277
+  },
+  {
+    "Id": 18,
+    "Location": "Assam",
+    "Total_Cases": "2,22,367",
+    "New_Cases_Per_Day": "499",
+    "Cases_Per_1_Million_People": "7,186",
+    "Deaths": "1,123",
+    "Latitude": 26.244156,
+    "Longitude": 92.537842
+  },
+  {
+    "Id": 19,
+    "Location": "Jharkhand",
+    "Total_Cases": "1,51,272",
+    "New_Cases_Per_Day": "3,480",
+    "Cases_Per_1_Million_People": "4,741",
+    "Deaths": "1,320",
+    "Latitude": 23.344315,
+    "Longitude": 85.296013
+  },
+  {
+    "Id": 20,
+    "Location": "Jammu and Kashmir",
+    "Total_Cases": "1,42,877",
+    "New_Cases_Per_Day": "1,141",
+    "Cases_Per_1_Million_People": "11,386",
+    "Deaths": "2,046",
+    "Latitude": 34.083656,
+    "Longitude": 74.797371
+  },
+  {
+    "Id": 21,
+    "Location": "Uttarakhand",
+    "Total_Cases": "1,16,244",
+    "New_Cases_Per_Day": "2,220",
+    "Cases_Per_1_Million_People": "11,528",
+    "Deaths": "1,802",
+    "Latitude": 30.316496,
+    "Longitude": 78.032188
+  },
+  {
+    "Id": 22,
+    "Location": "Himachal Pradesh",
+    "Total_Cases": "73,353",
+    "New_Cases_Per_Day": "1,034",
+    "Cases_Per_1_Million_People": "10,699",
+    "Deaths": "1,159",
+    "Latitude": 32.084206,
+    "Longitude": 77.571167
+  },
+  {
+    "Id": 23,
+    "Location": "Goa",
+    "Total_Cases": "64,572",
+    "New_Cases_Per_Day": "757",
+    "Cases_Per_1_Million_People": "35,538",
+    "Deaths": "862",
+    "Latitude": 15.496777,
+    "Longitude": 73.827827
+  },
+  {
+    "Id": 24,
+    "Location": "Puducherry",
+    "Total_Cases": "45,862",
+    "New_Cases_Per_Day": "413",
+    "Cases_Per_1_Million_People": "32,889",
+    "Deaths": "699",
+    "Latitude": 11.916064,
+    "Longitude": 79.812325
+  },
+  {
+    "Id": 25,
+    "Location": "Tripura",
+    "Total_Cases": "33,875",
+    "New_Cases_Per_Day": "4",
+    "Cases_Per_1_Million_People": "9,261",
+    "Deaths": "394",
+    "Latitude": 23.745127,
+    "Longitude": 91.746826
+  },
+  {
+    "Id": 26,
+    "Location": "Manipur",
+    "Total_Cases": "29,579",
+    "New_Cases_Per_Day": "18",
+    "Cases_Per_1_Million_People": "10,868",
+    "Deaths": "376",
+    "Latitude": 24.813967,
+    "Longitude": 93.950279
+  },
+  {
+    "Id": 27,
+    "Location": "Arunachal Pradesh",
+    "Total_Cases": "16,920",
+    "New_Cases_Per_Day": "8",
+    "Cases_Per_1_Million_People": "13,482",
+    "Deaths": "56",
+    "Latitude": 27.845148,
+    "Longitude": 95.247345
+  },
+  {
+    "Id": 28,
+    "Location": "Meghalaya",
+    "Total_Cases": "14,582",
+    "New_Cases_Per_Day": "97",
+    "Cases_Per_1_Million_People": "5,501",
+    "Deaths": "151",
+    "Latitude": 25.487389,
+    "Longitude": 90.412735
+  },
+  {
+    "Id": 29,
+    "Location": "Nagaland",
+    "Total_Cases": "12,482",
+    "New_Cases_Per_Day": "42",
+    "Cases_Per_1_Million_People": "5,487",
+    "Deaths": "93",
+    "Latitude": 25.906267,
+    "Longitude": 93.727592
+  },
+  {
+    "Id": 30,
+    "Location": "Ladakh",
+    "Total_Cases": "11,464",
+    "New_Cases_Per_Day": "186",
+    "Cases_Per_1_Million_People": "41,795",
+    "Deaths": "132",
+    "Latitude": 34.209515,
+    "Longitude": 77.615112
+  },
+  {
+    "Id": 31,
+    "Location": "Sikkim",
+    "Total_Cases": "6,497",
+    "New_Cases_Per_Day": "41",
+    "Cases_Per_1_Million_People": "10,496",
+    "Deaths": "136",
+    "Latitude": 27.338936,
+    "Longitude": 88.606506
+  },
+  {
+    "Id": 32,
+    "Location": "Andaman and Nicobar Islands",
+    "Total_Cases": "5,262",
+    "New_Cases_Per_Day": "15",
+    "Cases_Per_1_Million_People": "12,119",
+    "Deaths": "63",
+    "Latitude": 12.367180,
+    "Longitude": 92.924179
+  },
+  {
+    "Id": 33,
+    "Location": "Mizoram",
+    "Total_Cases": "4,747",
+    "New_Cases_Per_Day": "25",
+    "Cases_Per_1_Million_People": "4,255",
+    "Deaths": "12",
+    "Latitude": 23.727106,
+    "Longitude": 92.717636
+  },
+  {
+    "Id": 34,
+    "Location": "Dadra and Nagar Haveli and Daman and Diu",
+    "Total_Cases": "4,523",
+    "New_Cases_Per_Day": "103",
+    "Cases_Per_1_Million_People": "7,722",
+    "Deaths": "4",
+    "Latitude": 20.397373,
+    "Longitude": 72.832802
+  },
+  {
+    "Id": 35,
+    "Location": "Lakshadweep",
+    "Total_Cases": "901",
+    "New_Cases_Per_Day": "56",
+    "Cases_Per_1_Million_People": "13,984",
+    "Deaths": "1",
+    "Latitude": 11.098209,
+    "Longitude": 72.152466
+  }
+ ]
